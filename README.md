@@ -1,2 +1,2 @@
 # Tarea2_Repositorios
-## README modificado en la Web
+## Tarea para familiarizarse con los repositorios y Github
